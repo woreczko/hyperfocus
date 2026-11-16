@@ -11,13 +11,15 @@ Po polsku i po angielsku, aktualizuje się sam.
 
 ## Ustawienia
 
-Sekcja „Ustawienia” w okienku (zielone kółko = włączone):
+Sekcja „Ustawienia” w okienku (podświetlone kółko = włączone):
+
+- **Kolor podświetlenia** — domyślnie biały; do wyboru czerwony, pomarańczowy, żółty, zielony, niebieski, indygo albo różowy. Wybrany kolor mają przełączniki, wybrane przyciski, kreski i kolorowa ikonka w pasku.
 
 - **Pamiętaj ustawienie przełączników** — po uruchomieniu aplikacji FOCUS i HYPER wracają do stanu z ostatniego razu. Razem z Autostartem Hyperfocus działa od razu po włączeniu Maca.
 - **Lewy klik włącza i wyłącza** — kliknięcie ikonki w pasku menu od razu włącza albo wyłącza aplikację; okienko otwierasz prawym klikiem (albo z ⌃).
 - **Pozwól wygasić ekran** — ekran może zgasnąć, ale Mac nie zaśnie: programy pracują dalej, pobieranie się nie przerwie.
 - **Powiadomienia** — informacja, gdy Hyperfocus sam się wyłączy: minął czas, zamknięto wybraną aplikację albo odłączono zasilacz.
-- **Kolorowa ikonka w pasku** — zielona ikonka, gdy Hyperfocus działa.
+- **Kolorowa ikonka w pasku** — ikonka w kolorze podświetlenia, gdy Hyperfocus działa.
 - **Włączaj po podłączeniu zasilania** — podłączasz zasilacz, Hyperfocus sam się włącza.
 - **Wyłączaj po odłączeniu zasilania** — odłączasz zasilacz, Hyperfocus się wyłącza i nie zjada baterii.
 
@@ -50,13 +52,15 @@ In English and Polish, updates itself.
 
 ## Settings
 
-The “Settings” section in the menu (green circle = on):
+The “Settings” section in the menu (highlighted circle = on):
+
+- **Highlight color** — white by default; or pick red, orange, yellow, green, blue, indigo or pink. Switches, selected buttons, dividers and the colored menu bar icon follow it.
 
 - **Remember last switch settings** — when the app starts, FOCUS and HYPER return to how you left them. With Autostart, Hyperfocus works right after you turn on your Mac.
 - **Toggle with left click** — clicking the menu bar icon turns the app on or off right away; open the menu with a right-click (or ⌃-click).
 - **Allow display sleep** — the display may turn off, but your Mac won't sleep: apps keep running and downloads keep going.
 - **Notifications** — a heads-up when Hyperfocus turns itself off: time is up, the chosen app was closed or the power adapter was unplugged.
-- **Colored menu bar icon** — a green icon while Hyperfocus is on.
+- **Colored menu bar icon** — the icon takes the highlight color while Hyperfocus is on.
 - **Activate on power connect** — plug in the power adapter and Hyperfocus turns on.
 - **Deactivate on power disconnect** — unplug it and Hyperfocus turns off to save battery.
 
