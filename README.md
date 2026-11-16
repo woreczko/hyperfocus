@@ -15,6 +15,7 @@ Po polsku i po angielsku, aktualizuje się sam.
 Sekcja „Ustawienia” w okienku (podświetlone kółko = włączone):
 
 - **Kolor podświetlenia** — domyślnie biały; do wyboru czerwony, pomarańczowy, żółty, zielony, niebieski, indygo albo różowy. Wybrany kolor mają przełączniki, wybrane przyciski, kreski i kolorowa ikonka w pasku.
+- **Ciemne szkło** — okienko ciemne jak menu systemu, nawet na jasnej tapecie (bez tej opcji szkło przejmuje kolory tapety).
 
 - **Pamiętaj ustawienie przełączników** — po uruchomieniu aplikacji FOCUS i HYPER wracają do stanu z ostatniego razu. Razem z Autostartem Hyperfocus działa od razu po włączeniu Maca.
 - **Lewy klik włącza i wyłącza** — kliknięcie ikonki w pasku menu od razu włącza albo wyłącza aplikację; okienko otwierasz prawym klikiem (albo z ⌃).
@@ -59,6 +60,7 @@ In English and Polish, updates itself.
 The “Settings” section in the menu (highlighted circle = on):
 
 - **Highlight color** — white by default; or pick red, orange, yellow, green, blue, indigo or pink. Switches, selected buttons, dividers and the colored menu bar icon follow it.
+- **Dark glass** — a dark menu like the system's, even over a bright wallpaper (without it the glass picks up the wallpaper's colors).
 
 - **Remember last switch settings** — when the app starts, FOCUS and HYPER return to how you left them. With Autostart, Hyperfocus works right after you turn on your Mac.
 - **Toggle with left click** — clicking the menu bar icon turns the app on or off right away; open the menu with a right-click (or ⌃-click).
