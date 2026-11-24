@@ -3,10 +3,10 @@
 Hyperfocus to mała aplikacja w pasku menu z dwoma przełącznikami:
 
 - **FOCUS — ekran nie gaśnie.** Mac nie usypia ekranu, nie włącza wygaszacza ani blokady. Bez żadnych zgód.
-- **HYPER — ruch myszki.** Gdy przez chwilę nic nie robisz, kursor przesuwa się o jeden punkt i wraca — Teams, Slack i inne komunikatory widzą cię jako aktywnego. Wymaga zgody w Ustawieniach → Prywatność → Dostępność (aplikacja sama tam zaprowadzi).
+- **HYPER — status aktywny.** Gdy przez chwilę nic nie robisz, Hyperfocus zeruje systemowy licznik bezczynności — Microsoft Teams zostaje zielony. Na macOS 27 bez ruszania kursora i bez żadnych zgód; jeśli na twoim macOS to nie zadziała, aplikacja poprosi o zgodę w Ustawieniach → Prywatność i przesunie kursor o jeden punkt. Sprawdzone w Teams; w innych komunikatorach może nie działać.
 - **Czas** — bez końca, 15/30/45 minut, 1/2/4/8 godzin, dopóki działa wybrana aplikacja albo dopóki trwa pobieranie (Safari, Chrome, Edge, Firefox, Opera).
-- **Zablokowany ekran** — gdy zablokujesz Maca, ruch myszki się wstrzymuje i ekran może zgasnąć; po odblokowaniu wszystko wraca samo.
-- **Ruch myszki po bezczynności** — co 30 s, 1, 2 albo 4 minuty bez ruchu.
+- **Zablokowany ekran** — gdy zablokujesz Maca, sygnał HYPER się wstrzymuje i ekran może zgasnąć; po odblokowaniu wszystko wraca samo.
+- **Sygnał po bezczynności** — co 30 s, 1, 2 albo 4 minuty bez ruchu.
 
 Po polsku i po angielsku, aktualizuje się sam.
 
@@ -47,10 +47,10 @@ Odinstalujesz w okienku: **Odinstaluj…** (sprząta też autostart i zgodę w D
 Hyperfocus is a small menu bar app with two switches:
 
 - **FOCUS — screen stays on.** Your Mac won't dim the display, start the screen saver or lock. No permissions needed.
-- **HYPER — mouse movement.** When you've been idle for a while, the cursor moves by one point and back — Teams, Slack and other chat apps see you as active. Needs Accessibility access in System Settings → Privacy & Security (the app takes you there).
+- **HYPER — active status.** When you've been idle for a while, Hyperfocus resets the system idle counter, so Microsoft Teams stays green. On macOS 27 it doesn't move the cursor and needs no permissions; if that doesn't work on your macOS, the app asks for access in System Settings → Privacy & Security and moves the cursor by one point. Tested with Teams; other chat apps may not react.
 - **Duration** — indefinitely, 15/30/45 minutes, 1/2/4/8 hours, while a chosen app is running, or while downloading (Safari, Chrome, Edge, Firefox, Opera).
-- **Locked screen** — when you lock your Mac, mouse movement pauses and the display may turn off; it all resumes when you unlock.
-- **Move mouse after idle** — every 30 s, 1, 2 or 4 minutes without movement.
+- **Locked screen** — when you lock your Mac, the HYPER signal pauses and the display may turn off; it all resumes when you unlock.
+- **Signal after idle** — every 30 s, 1, 2 or 4 minutes without movement.
 
 In English and Polish, updates itself.
 
